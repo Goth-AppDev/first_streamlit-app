@@ -73,4 +73,4 @@ streamlit.text(my_data_row)
 
 
 streamlit.write('Thanks for adding ', add_my_fruit)
-my_cur.execute("Insert into fruit_load_list values ('from streamlit')")
+#my_cur.execute("Insert into fruit_load_list values ('from streamlit')")
